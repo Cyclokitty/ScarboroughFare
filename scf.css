@@ -1,7 +1,7 @@
 @import 'https://fonts.googleapis.com/css?family=MedievalSharp|Oxygen';
 
 body {
-  background-image: url('imgs/medieval_dining.png');
+  background-image: url('images/medieval_dining.png');
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -63,6 +63,7 @@ li a.active {
 }
 
 #message {
+  font-family: 'Oxygen', sans-serif;
   background-color: rgba(0, 0, 0, .3);
 }
 
