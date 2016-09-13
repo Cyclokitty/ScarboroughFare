@@ -1,7 +1,7 @@
 @import 'https://fonts.googleapis.com/css?family=MedievalSharp|Oxygen';
 
 body {
-  background-image: url('images/medieval_dining.png');
+  background-image: url('imgs/medieval_dining.png');
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
